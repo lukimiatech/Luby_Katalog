@@ -1,9 +1,16 @@
 <resources xmlns:tools="http://schemas.android.com/tools">
-    <!-- Base application theme. -->
     <style name="Base.Theme.Luby_Katalog" parent="Theme.Material3.DayNight.NoActionBar">
-        <!-- Customize your light theme here. -->
-        <!-- <item name="colorPrimary">@color/my_light_primary</item> -->
+        <item name="colorPrimary">@color/luby_red</item>
+        <item name="colorPrimaryDark">@color/luby_red_dark</item>
+        <item name="colorAccent">@color/luby_red</item>
+        <item name="android:statusBarColor">@android:color/transparent</item>
+        <item name="android:windowLightStatusBar">true</item>
     </style>
 
     <style name="Theme.Luby_Katalog" parent="Base.Theme.Luby_Katalog" />
+
+    <!-- Splash Theme -->
+    <style name="Theme.Luby_Katalog.Splash" parent="Theme.Luby_Katalog">
+        <item name="android:windowBackground">@drawable/bg_splash_gradient</item>
+    </style>
 </resources>

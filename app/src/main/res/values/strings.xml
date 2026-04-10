@@ -1,3 +1,79 @@
+<?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name">Luby_Katalog</string>
+    <string name="app_name">Luby Katalog</string>
+    <string name="brand_name">LUBY</string>
+
+    <!-- Splash -->
+    <string name="splash_tagline">INOVASI PENCAHAYAAN INDONESIA</string>
+    <string name="splash_certified">SNI CERTIFIED QUALITY</string>
+
+    <!-- Login -->
+    <string name="login_subtitle">THE EDITORIAL VANGUARD</string>
+    <string name="label_email_phone">EMAIL / PHONE</string>
+    <string name="hint_email">name@example.com</string>
+    <string name="label_password">PASSWORD</string>
+    <string name="hint_password">Enter password</string>
+    <string name="forgot_password">LUPA PASSWORD?</string>
+    <string name="btn_login">Masuk</string>
+    <string name="or_login_with">ATAU MASUK DENGAN</string>
+    <string name="google">GOOGLE</string>
+    <string name="facebook">FACEBOOK</string>
+    <string name="no_account">Belum punya akun?</string>
+    <string name="register_now">Daftar Sekarang</string>
+
+    <!-- Register -->
+    <string name="register_title">Bergabung\ndengan Luby.</string>
+    <string name="register_desc">Akses katalog eksklusif dan pengalaman berbelanja terkurasi untuk gaya hidup vanguard Anda.</string>
+    <string name="label_full_name">FULL NAME</string>
+    <string name="hint_full_name">John Doe</string>
+    <string name="label_email">EMAIL ADDRESS</string>
+    <string name="hint_email_register">hello@luby.id</string>
+    <string name="label_phone">PHONE NUMBER</string>
+    <string name="hint_phone">+62 812 3456 7890</string>
+    <string name="label_confirm_password">CONFIRM PASSWORD</string>
+    <string name="btn_register">Daftar</string>
+    <string name="already_have_account">Sudah punya akun?</string>
+    <string name="login_link">Masuk</string>
+    <string name="trusted_presence">TRUSTED PRESENCE</string>
+    <string name="secure_data">SECURE DATA</string>
+    <string name="premium_perks">PREMIUM PERKS</string>
+
+    <!-- Home -->
+    <string name="hero_title">Illuminate\nthe Future.</string>
+    <string name="hero_desc">Discover our latest architectural lighting series.</string>
+    <string name="explore_now">EXPLORE NOW</string>
+    <string name="categories">Categories</string>
+    <string name="see_all">SEE ALL</string>
+    <string name="cat_lighting">Lighting</string>
+    <string name="cat_lighting_desc">Modern solutions</string>
+    <string name="cat_electrical">Electrical</string>
+    <string name="featured_products">Produk Unggulan</string>
+    <string name="featured_desc">Our hand-picked professional equipment.</string>
+
+    <!-- Bottom Nav -->
+    <string name="nav_catalog">CATALOG</string>
+    <string name="nav_search">SEARCH</string>
+    <string name="nav_saved">SAVED</string>
+    <string name="nav_profile">PROFILE</string>
+
+    <!-- Product Detail -->
+    <string name="luby_catalog">Luby Catalog</string>
+    <string name="precision_series">THE PRECISION SERIES</string>
+    <string name="battery_life">BATTERY LIFE</string>
+    <string name="lumen_output">LUMEN OUTPUT</string>
+    <string name="tech_specs">TECHNICAL SPECIFICATIONS</string>
+    <string name="inquiry_now">Inquiry Now</string>
+    <string name="add_to_wishlist">Add to Wishlist</string>
+    <string name="material_label">Material</string>
+    <string name="charging_time">Charging Time</string>
+    <string name="charging_type">Charging Type</string>
+    <string name="water_resistance">Water Resistance</string>
+    <string name="beam_distance">Beam Distance</string>
+
+    <!-- Content descriptions -->
+    <string name="cd_logo">Luby Logo</string>
+    <string name="cd_back">Go Back</string>
+    <string name="cd_menu">Menu</string>
+    <string name="cd_search">Search</string>
+    <string name="cd_product_image">Product Image</string>
 </resources>
