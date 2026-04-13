@@ -31,6 +31,14 @@
     <string name="label_phone">PHONE NUMBER</string>
     <string name="hint_phone">+62 812 3456 7890</string>
     <string name="label_confirm_password">CONFIRM PASSWORD</string>
+    <string name="label_nik">NIK (NOMOR INDUK KEPENDUDUKAN)</string>
+    <string name="hint_nik">3201234567890001</string>
+    <string name="label_foto_ktp">FOTO KTP</string>
+    <string name="foto_ktp_desc">Upload foto KTP Anda untuk verifikasi identitas</string>
+    <string name="btn_upload_ktp">Pilih Foto KTP</string>
+    <string name="btn_change_ktp">Ganti Foto</string>
+    <string name="label_referral_code">KODE REFERENSI</string>
+    <string name="hint_referral_code">Masukkan kode referensi (opsional)</string>
     <string name="btn_register">Daftar</string>
     <string name="already_have_account">Sudah punya akun?</string>
     <string name="login_link">Masuk</string>
